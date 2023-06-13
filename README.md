@@ -2,6 +2,11 @@
 
 Language：English（[中文文档](https://gitee.com/qiruipeng/pptshow)）
 
+### Reference document address
+
+Please check the reference document on the official website: https://pptshow.cc/  
+(The reference document is only available in Chinese for now, you can use your browser to translate it into other languages.)
+
 ### Introduction
 
 Java to generate PPT documents toolkit, support the new features of the 2010 version of PPTX 
@@ -78,9 +83,6 @@ public class Main {
 
  ```
 
-### Reference document address
-
-Please check the reference document on the official website: https://pptshow.cc/
 
 ### Jar package description
 
