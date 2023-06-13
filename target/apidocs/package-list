@@ -1,0 +1,17 @@
+cc.pptshow.ppt
+cc.pptshow.ppt.constant
+cc.pptshow.ppt.domain
+cc.pptshow.ppt.domain.animation
+cc.pptshow.ppt.domain.background
+cc.pptshow.ppt.domain.border
+cc.pptshow.ppt.domain.cut
+cc.pptshow.ppt.domain.cut.shape
+cc.pptshow.ppt.domain.shape
+cc.pptshow.ppt.element
+cc.pptshow.ppt.element.impl
+cc.pptshow.ppt.exception
+cc.pptshow.ppt.reader
+cc.pptshow.ppt.show
+cc.pptshow.ppt.show.build
+cc.pptshow.ppt.show.build.impl
+cc.pptshow.ppt.util
