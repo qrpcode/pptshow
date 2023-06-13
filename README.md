@@ -9,7 +9,7 @@ Java to generate PPT documents toolkit, support the new features of the 2010 ver
 ### Feel it first
 For example, the following PPT is made entirely with this Jar package  
 Including this video is also generated automatically through the Jar package  
-![演示视频](https://raw.githubusercontent.com/qrpcode/pptshow/main/example.mp4 "演示视频")
+![演示视频](https://installsd.com/example.mp4 "演示视频")
 
 ### Function Support
 ##### PPT basic editing functions
