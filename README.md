@@ -1,6 +1,10 @@
 # pptshow
-
 Language：English（[中文文档](https://gitee.com/qiruipeng/pptshow)）
+
+### Reference document address
+
+Please check the reference document on the official website: https://pptshow.cc/  
+(The reference document is only available in Chinese for now, you can use your browser to translate it into other languages.)
 
 ### Introduction
 
@@ -10,13 +14,7 @@ Java to generate PPT documents toolkit, support the new features of the 2010 ver
 For example, the following PPT is made entirely with this Jar package  
 Including this video is also generated automatically through the Jar package  
 
-<<<<<<< HEAD
-<video muted autoplay="autoplay" loop="loop">
-<source src="https://raw.githubusercontent.com/qrpcode/pptshow/main/example.mp4" type="video/mp4"></source>
-</video>
-=======
 https://user-images.githubusercontent.com/53297393/245331343-43c1cd94-e3b3-41d2-9efa-93b4a7cad0a7.mp4
->>>>>>> d9bd506c84472b8cecbf168c1b6c670032b609be
 
 ### Function Support
 ##### PPT basic editing functions
@@ -84,9 +82,6 @@ public class Main {
 
  ```
 
-### Reference document address
-
-Please check the reference document on the official website: https://pptshow.cc/
 
 ### Jar package description
 
