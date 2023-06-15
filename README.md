@@ -2,7 +2,7 @@
 Language：English（[中文](https://gitee.com/qiruipeng/pptshow)）
 
 ### Reference document address
-Language：[中文文档](https://github.com/qrpcode/pptshow/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)  [English Documents](https://github.com/qrpcode/pptshow/wiki/Introduction)   
+Language：[中文文档](https://github.com/qrpcode/pptshow/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)  [English Documents](https://github.com/qrpcode/pptshow/wiki/English-Documents)   
 You can also go to the [official website](https://pptshow.cc) to view the Chinese documentation, the content is consistent and more comfortable to read  
 
 ### Introduction
